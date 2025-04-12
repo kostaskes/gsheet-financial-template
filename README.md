@@ -5,6 +5,9 @@
 
 ## 📊 Dashboard View
 
-<img src="assets/test1.png" alt="Dashboard" width="700"/>
+<p align="center">
+  <img src="assets/test1.png" alt="Dashboard" width="600"/>
+  <br>
+  <em>Figure 1: Dashboard View with Summary Metrics</em>
+</p>
 
-This view summarizes revenue and expenses with color-coded highlights and calculated metrics.
