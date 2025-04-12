@@ -44,6 +44,8 @@ This template includes the following tabs to help you track your business’s pe
    - Gathers all data into one single table by **month**, calculating:
      - Total **Sales**, **Expenses**, and **Running Totals**.
      - **Profit/Loss** for each month and overall total.
+    
+![Overview Dashboard ss 1](./assets/overview-1.png)
 
 4. **SALES**
    - A place for users to log their **daily revenue totals**.
