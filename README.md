@@ -25,10 +25,10 @@ This template includes the following tabs to help you track your business’s pe
    - A feature to compare sales between two periods (the user can choose the start and end dates).
    - Includes a **pie chart** to visualize the percentage of **card/cash payments**.
   
-<p float="left">
-  <img src="./assets/sales-dash-1.png" width="33%" height="600px" />
-  <img src="./assets/sales-dash-2.png" width="33%" height="600px" />
-  <img src="./assets/sales-dash-3.png" width="33%" height="600px" />
+<p align="center">
+  <img src="./assets/sales-dash-1.png" width="30%" height="600px" />
+  <img src="./assets/sales-dash-2.png" width="30%" height="600px" />
+  <img src="./assets/sales-dash-3.png" width="30%" height="600px" />
 </p>
 
 2. **PURCHASES DASHBOARD**
@@ -36,22 +36,27 @@ This template includes the following tabs to help you track your business’s pe
    - A **pie chart** showing the percentage of **purchases per category**.
    - A **chart** that tracks total purchases by month, with an **average purchases line** for comparison.
 
-
-![Purchases Dashboard ss 1](./assets/purchases-dash-1.png)
-![Purchases Dashboard ss 2](./assets/purchases-dash-2.png)
+<p align="center">
+  <img src="./assets/purchases-dash-1.png" width="80%" />
+  <img src="./assets/purchases-dash-2.png" width="80%" />
+</p>
 
 3. **OVERVIEW**
    - Gathers all data into one single table by **month**, calculating:
      - Total **Sales**, **Expenses**, and **Running Totals**.
      - **Profit/Loss** for each month and overall total.
-    
-![Overview Dashboard ss 1](./assets/overview-1.png)
+   
+<p align="center">
+  <img src="./assets/overview-1.png" width="80%" />
+</p>
 
 4. **SALES**
    - A place for users to log their **daily revenue totals**.
    - Helps track the flow of money from the **cash registers** to ensure accuracy and correctness.
   
-![Sales log ss 1](./assets/sales-log-1.png)
+<p align="center">
+  <img src="./assets/sales-log-1.png" width="80%" />
+</p>
 
 5. **PURCHASES**
    - Users log the **date and cost of purchases**, as well as the **supplier's name**.
