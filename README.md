@@ -112,6 +112,6 @@ If you're interested or have any questions, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/konstantinos-kesidis/)
 
-📧 Email: [k.p.kesidis@gmail.com](mailto:k.p.kesidis@gmail.com)
+📧 [k.p.kesidis@gmail.com](mailto:k.p.kesidis@gmail.com)
 
 
