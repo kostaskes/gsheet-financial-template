@@ -110,6 +110,7 @@ Please note that all numbers and names shown throughout the template are **rando
 
 If you're interested or have any questions, feel free to reach out!
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/konstantinos-kesidis/)
 
 📧 [k.p.kesidis@gmail.com](mailto:k.p.kesidis@gmail.com)
