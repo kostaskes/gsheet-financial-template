@@ -79,6 +79,10 @@ This template includes the following tabs to help you track your business’s pe
    - A dashboard that shows the amounts owed to each supplier and any unpaid expenses.
    - Provides an overview of **outstanding debts** and expenses, helping you track the financial health of your business.
 
+<p align="center">
+  <img src="./assets/outstanding-balance-1.png" width="80%" />
+</p>
+
 8. **SETTINGS**
    - A simple way to save and manage **suppliers**, **categories for purchases**, and **expense categories**.
    - These settings are then used to automatically fill in the relevant categories in the **Purchases** and **Expenses** tabs.
