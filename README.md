@@ -36,6 +36,9 @@ This template includes the following tabs to help you track your business’s pe
    - A **pie chart** showing the percentage of **purchases per category**.
    - A **chart** that tracks total purchases by month, with an **average purchases line** for comparison.
 
+![Purchases Dashboard Screenshot](./assets/purchases-dash-1.png)
+
+
 3. **OVERVIEW**
    - Gathers all data into one single table by **month**, calculating:
      - Total **Sales**, **Expenses**, and **Running Totals**.
