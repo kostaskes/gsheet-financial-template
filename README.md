@@ -63,9 +63,17 @@ This template includes the following tabs to help you track your business’s pe
    - Categorizes the supplier based on the information in the **Settings** tab.
    - Tracks the status of payments to suppliers: whether the supplier has been paid in full, not paid, or paid partially (with outstanding balances visible in the **Balance** tab).
 
+<p align="center">
+  <img src="./assets/purchases-log-1.png" width="80%" />
+</p>
+
 6. **EXPENSES**
    - Functions similarly to the **Purchases** tab but for non-purchase business expenses like **utilities, salaries, etc.**.
    - Logs expenses and categorizes them for easy tracking and analysis.
+
+<p align="center">
+  <img src="./assets/expenses-log-1.png" width="80%" />
+</p>
 
 7. **BALANCE**
    - A dashboard that shows the amounts owed to each supplier and any unpaid expenses.
