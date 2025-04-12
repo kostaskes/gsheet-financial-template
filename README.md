@@ -50,6 +50,8 @@ This template includes the following tabs to help you track your business’s pe
 4. **SALES**
    - A place for users to log their **daily revenue totals**.
    - Helps track the flow of money from the **cash registers** to ensure accuracy and correctness.
+  
+![Sales log ss 1](./assets/sales-log-1.png)
 
 5. **PURCHASES**
    - Users log the **date and cost of purchases**, as well as the **supplier's name**.
