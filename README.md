@@ -26,9 +26,9 @@ This template includes the following tabs to help you track your business’s pe
    - Includes a **pie chart** to visualize the percentage of **card/cash payments**.
   
 <p float="left">
-  <img src="./images/sales-d-1.png" width="33%" />
-  <img src="./images/sales-d-2.png" width="33%" />
-  <img src="./images/sales-d-3.png" width="33%" />
+  <img src="./assets/sales-d-1.png" width="33%" />
+  <img src="./assets/sales-d-2.png" width="33%" />
+  <img src="./assets/sales-d-3.png" width="33%" />
 </p>
 
 
