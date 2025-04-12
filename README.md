@@ -24,6 +24,13 @@ This template includes the following tabs to help you track your business’s pe
    - Similar comparisons for **monthly revenue**.
    - A feature to compare sales between two periods (the user can choose the start and end dates).
    - Includes a **pie chart** to visualize the percentage of **card/cash payments**.
+  
+<p float="left">
+  <img src="./images/sales-d-1.png" width="33%" />
+  <img src="./images/sales-d-2.png" width="33%" />
+  <img src="./images/sales-d-3.png" width="33%" />
+</p>
+
 
 2. **PURCHASES DASHBOARD**
    - Displays the **Top 5 suppliers** and **Bottom 5 suppliers** based on purchases.
