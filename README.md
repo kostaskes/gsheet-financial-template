@@ -26,9 +26,9 @@ This template includes the following tabs to help you track your business’s pe
    - Includes a **pie chart** to visualize the percentage of **card/cash payments**.
   
 <p align="center">
-  <img src="./assets/sales-dash-1.png" width="30%" height="600px" />
-  <img src="./assets/sales-dash-2.png" width="30%" height="600px" />
-  <img src="./assets/sales-dash-3.png" width="30%" height="600px" />
+  <img src="./assets/sales-dash-1.png" width="600px" />
+  <img src="./assets/sales-dash-2.png" width="600px" />
+  <img src="./assets/sales-dash-3.png" width="600px" />
 </p>
 
 2. **PURCHASES DASHBOARD**
@@ -38,8 +38,8 @@ This template includes the following tabs to help you track your business’s pe
    - A **chart** that tracks total purchases by month, with an **average purchases line** for comparison.
 
 <p align="center">
-  <img src="./assets/purchases-dash-1.png" width="80%" />
-  <img src="./assets/purchases-dash-2.png" width="80%" />
+  <img src="./assets/purchases-dash-1.png" width="600px" />
+  <img src="./assets/purchases-dash-2.png" width="600px" />
 </p>
 
 3. **OVERVIEW**
@@ -58,7 +58,7 @@ This template includes the following tabs to help you track your business’s pe
    - Helps track the flow of money from the **cash registers** to ensure accuracy and correctness.
   
 <p align="center">
-  <img src="./assets/sales-log-1.png" width="80%" />
+  <img src="./assets/sales-log-1.png" width="600px" />
 </p>
 
 5. **PURCHASES**
@@ -68,7 +68,7 @@ This template includes the following tabs to help you track your business’s pe
    - Tracks the status of payments to suppliers: whether the supplier has been paid in full, not paid, or paid partially (with outstanding balances visible in the **Balance** tab).
 
 <p align="center">
-  <img src="./assets/purchases-log-1.png" width="80%" />
+  <img src="./assets/purchases-log-1.png" width="600px" />
 </p>
 
 6. **EXPENSES**
@@ -77,7 +77,7 @@ This template includes the following tabs to help you track your business’s pe
    - Logs expenses and categorizes them for easy tracking and analysis.
 
 <p align="center">
-  <img src="./assets/expenses-log-1.png" width="80%" />
+  <img src="./assets/expenses-log-1.png" width="600px" />
 </p>
 
 7. **BALANCE**
@@ -86,7 +86,7 @@ This template includes the following tabs to help you track your business’s pe
    - Provides an overview of **outstanding debts** and expenses, helping you track the financial health of your business.
 
 <p align="center">
-  <img src="./assets/outstanding-balance-1.png" width="80%" />
+  <img src="./assets/outstanding-balance-1.png" width="600px" />
 </p>
 
 8. **SETTINGS**
