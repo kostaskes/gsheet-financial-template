@@ -103,3 +103,15 @@ This template includes the following tabs to help you track your business’s pe
 
 Please note that all numbers and names shown throughout the template are **randomly generated** and **do not represent real data**.
 
+
+---
+
+## 📬 Get in Touch
+
+If you're interested or have any questions, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/konstantinos-kesidis/)
+
+📧 Email: [k.p.kesidis@gmail.com](mailto:k.p.kesidis@gmail.com)
+
+
